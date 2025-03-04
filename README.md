@@ -2,9 +2,9 @@
 Cleaning Data, Data Preprocessing &amp; Data Visualization.
 
 # 💻 Description
-Project focused on cleaning, preprocessing, and visualizing data from RENFE (Spain’s national railway company) to extract insights for pricing strategies and route optimization.
+Project focused on analyzing data from RENFE (Spain’s national railway company) to extract insights for pricing strategies and route optimization using various machine learning techniques and data analysis.
 
 # 🔧 Tools
-* Python
+* Python (Pandas, Numpy)
 * Plotly
 * Scikit-learn
